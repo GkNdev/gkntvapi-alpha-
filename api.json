@@ -1,6 +1,6 @@
 {
-    "updateAPI": "https://channels-8li.pages.dev/update.json",
-    "tvChannelsAPI": "https://channels-8li.pages.dev/new.json",
-    "moviesAPI": "",
+    "updateAPI": "f33a690a.channels-8li",
+    "tvChannelsAPI": "f33a690a.channels-8li",
+    "moviesAPI": "f33a690a.channels-8li",
     "seriesAPI": ""
 }
